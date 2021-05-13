@@ -1,0 +1,2 @@
+# solo-calc
+calculator App
